@@ -12,6 +12,9 @@
     <maven.compiler.source>17</maven.compiler.source>
     <maven.compiler.target>17</maven.compiler.target>
     <junit.version>5.9.2</junit.version>
+           <sonar.organization>app123458</sonar.organization> 
+<sonar.projectKey>app123458_appointment-scheduling</sonar.projectKey> 
+    <sonar.organization>app123458-1</sonar.organization>
   </properties>
 
   <dependencies>
